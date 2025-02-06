@@ -1,0 +1,336 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Poll > The component UI should not change 1`] = `
+{
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="_layout_49ffbd"
+      >
+        <div
+          class="_logo_69e643"
+        >
+          <a
+            class="_logoLink_69e643"
+            href="https://dizplai.com/home/"
+            rel="nofollow"
+          >
+            <img
+              alt="Logo"
+              height="60"
+              src="https://dizplai.com/wp-content/themes/neverno/library/images/logo.svg"
+              width="124"
+            />
+          </a>
+        </div>
+        <div
+          class="_title_69e643"
+        >
+           
+          Who will win Premier League
+        </div>
+        <div
+          class="_progressBarBackground_a525df"
+        >
+          <div
+            class="_title_a525df"
+          >
+             
+            Liverpool
+             
+          </div>
+          <div
+            class="_percent_a525df"
+          >
+             
+            50.0
+            % 
+          </div>
+          <div
+            class="_progressBar_a525df"
+            style="width: 50.0%;"
+          />
+        </div>
+        <div
+          class="_progressBarBackground_a525df"
+        >
+          <div
+            class="_title_a525df"
+          >
+             
+            Manchester City
+             
+          </div>
+          <div
+            class="_percent_a525df"
+          >
+             
+            30.0
+            % 
+          </div>
+          <div
+            class="_progressBar_a525df"
+            style="width: 30.0%;"
+          />
+        </div>
+        <div
+          class="_progressBarBackground_a525df"
+        >
+          <div
+            class="_title_a525df"
+          >
+             
+            Arsenal
+             
+          </div>
+          <div
+            class="_percent_a525df"
+          >
+             
+            20.0
+            % 
+          </div>
+          <div
+            class="_progressBar_a525df"
+            style="width: 20.0%;"
+          />
+        </div>
+        <div
+          class="_progressBarBackground_a525df"
+        >
+          <div
+            class="_title_a525df"
+          >
+             
+            Manchester United
+             
+          </div>
+          <div
+            class="_percent_a525df"
+          >
+             
+            6.00
+            % 
+          </div>
+          <div
+            class="_progressBar_a525df"
+            style="width: 6.00%;"
+          />
+        </div>
+        <div
+          class="_progressBarBackground_a525df"
+        >
+          <div
+            class="_title_a525df"
+          >
+             
+            West Ham United
+             
+          </div>
+          <div
+            class="_percent_a525df"
+          >
+             
+            4.00
+            % 
+          </div>
+          <div
+            class="_progressBar_a525df"
+            style="width: 4.00%;"
+          />
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="_layout_49ffbd"
+    >
+      <div
+        class="_logo_69e643"
+      >
+        <a
+          class="_logoLink_69e643"
+          href="https://dizplai.com/home/"
+          rel="nofollow"
+        >
+          <img
+            alt="Logo"
+            height="60"
+            src="https://dizplai.com/wp-content/themes/neverno/library/images/logo.svg"
+            width="124"
+          />
+        </a>
+      </div>
+      <div
+        class="_title_69e643"
+      >
+         
+        Who will win Premier League
+      </div>
+      <div
+        class="_progressBarBackground_a525df"
+      >
+        <div
+          class="_title_a525df"
+        >
+           
+          Liverpool
+           
+        </div>
+        <div
+          class="_percent_a525df"
+        >
+           
+          50.0
+          % 
+        </div>
+        <div
+          class="_progressBar_a525df"
+          style="width: 50.0%;"
+        />
+      </div>
+      <div
+        class="_progressBarBackground_a525df"
+      >
+        <div
+          class="_title_a525df"
+        >
+           
+          Manchester City
+           
+        </div>
+        <div
+          class="_percent_a525df"
+        >
+           
+          30.0
+          % 
+        </div>
+        <div
+          class="_progressBar_a525df"
+          style="width: 30.0%;"
+        />
+      </div>
+      <div
+        class="_progressBarBackground_a525df"
+      >
+        <div
+          class="_title_a525df"
+        >
+           
+          Arsenal
+           
+        </div>
+        <div
+          class="_percent_a525df"
+        >
+           
+          20.0
+          % 
+        </div>
+        <div
+          class="_progressBar_a525df"
+          style="width: 20.0%;"
+        />
+      </div>
+      <div
+        class="_progressBarBackground_a525df"
+      >
+        <div
+          class="_title_a525df"
+        >
+           
+          Manchester United
+           
+        </div>
+        <div
+          class="_percent_a525df"
+        >
+           
+          6.00
+          % 
+        </div>
+        <div
+          class="_progressBar_a525df"
+          style="width: 6.00%;"
+        />
+      </div>
+      <div
+        class="_progressBarBackground_a525df"
+      >
+        <div
+          class="_title_a525df"
+        >
+           
+          West Ham United
+           
+        </div>
+        <div
+          class="_percent_a525df"
+        >
+           
+          4.00
+          % 
+        </div>
+        <div
+          class="_progressBar_a525df"
+          style="width: 4.00%;"
+        />
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

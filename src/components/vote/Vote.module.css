@@ -1,0 +1,32 @@
+.layout {
+  grid-column: 2;
+  grid-row: 2;
+  align-content: end;
+}
+
+.submitBtn {
+  height: 50px;
+  background: rgba(99, 13, 236, 0.6);
+  border: 2px solid rgba(256, 256, 256, 0.8);
+  border-radius: 5px;
+  margin: 20px;
+  position: relative;
+}
+
+div[disabled] {
+  pointer-events: none;
+  background: rgba(133, 131, 136, 0.685);
+}
+
+.submitBtn:hover {
+  background: rgba(115, 34, 247, 0.973);
+  cursor: pointer;
+}
+.submitText {
+  font-size: large;
+  color: whitesmoke;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 10px;
+}

@@ -16,18 +16,36 @@
 }
 
 .title {
-  font-size: large;
+  font-size: 1.3em;
   color: whitesmoke;
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
-  top: 10px;
+  top: 8px;
 }
 
 .percent {
-  font-size: large;
+  font-size: 1.3em;
   color: whitesmoke;
   position: absolute;
-  top: 10px;
+  top: 8px;
   right: 5%;
+}
+
+@media (max-width: 800px) {
+  .title,
+  .percent {
+    font-size: 1.2em;
+  }
+}
+
+@media (max-width: 600px) {
+  .title,
+  .percent {
+    font-size: 1em;
+  }
+
+  .title {
+    left: 40%;
+  }
 }

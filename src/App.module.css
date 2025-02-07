@@ -16,3 +16,24 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+@media (max-width: 900px) {
+  .container {
+    column-gap: 40px;
+    grid-template-columns: 2fr 5fr 2fr;
+  }
+}
+
+@media (max-width: 700px) {
+  .container {
+    column-gap: 30px;
+    grid-template-columns: 1fr 5fr 1fr;
+  }
+}
+
+@media (max-width: 400px) {
+  .container {
+    column-gap: 20px;
+    grid-template-columns: 0.5fr 5fr 0.5fr;
+  }
+}

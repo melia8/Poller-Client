@@ -14,5 +14,17 @@
 
 .title {
   text-align: center;
-  font-size: 32px;
+  font-size: 2em;
+}
+
+@media (max-width: 800px) {
+  .title {
+    font-size: 1.8em;
+  }
+}
+
+@media (max-width: 600px) {
+  .title {
+    font-size: 1.4em;
+  }
 }

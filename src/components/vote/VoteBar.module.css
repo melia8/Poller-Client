@@ -22,10 +22,22 @@
 }
 
 .title {
-  font-size: large;
+  font-size: 1.4em;
   color: whitesmoke;
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
-  top: 10px;
+  top: 6px;
+}
+
+@media (max-width: 800px) {
+  .title {
+    font-size: 1.2em;
+  }
+}
+
+@media (max-width: 600px) {
+  .title {
+    font-size: 1em;
+  }
 }
